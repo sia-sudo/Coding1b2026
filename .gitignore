@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/PolygonStarterPack/Textures/FBX_1_mln_4x8K_02_u1_v1_normal.uasset
+Content/PolygonStarterPack/Textures/FBX_1_mln_4x8K_02_u2_v1_normal.uasset
+Content/PolygonStarterPack/Textures/FBX_1_mln_4x8K_02_u1_v2_normal.uasset
